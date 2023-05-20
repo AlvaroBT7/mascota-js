@@ -1,0 +1,14 @@
+{
+  "name": "tamagotchi-de-los-chinos",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "tamagotchi-de-los-chinos",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
